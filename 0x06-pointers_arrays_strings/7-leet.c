@@ -17,7 +17,8 @@ char *leet(char *s)
 	char leetletters[] = "aAeEoOtTlL";
 	char leetnums[] = "4433007711"
 
-/* scan through string */;
+/*
+ *  scan through string*/;
 	string_length = 0;
 	while (s[string_length] != '\0')
 /* check whether leetletter is found */
