@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * Description: rot13 - encoder rot13
+ *Description: rot13 - encoder rot13
  * @s: pointer to string params
  * Return *s
  */
