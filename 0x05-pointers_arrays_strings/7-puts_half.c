@@ -3,6 +3,7 @@
 /**
  * Description: puts_half - prints half of a string
  * @str: The string to print
+ * _putchar: - used to write a character, of unsigned char type, to stdout
  * Return: void
  **/
 
@@ -27,7 +28,7 @@ void puts_half(char *str)
 
 	for (; k < j; k++)
 	{
-		_putchar9(str[k]);
+		_putchar(str[k]);
 	}
-	_putchar9('\n');
+	_putchar('\n');
 }
